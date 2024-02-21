@@ -2,11 +2,11 @@
 <h5 align="center"><i>Passionate coder | Lifelong learner | Problem solver<i></h5>
 
 <p align = center>
-  ![coding](https://github.com/geek-prateek/geek-prateek/assets/71647878/be6811fc-d249-4366-b8f0-c83bcc8b91e4)
+  
+  
 
-<!-- <img src = "https://github.com/geek-prateek/geek-prateek/assets/71647878/baaaac7c-5ae1-46b7-b9a5-8eb645ddc184
-" width = 1000 alt = "gif" >
-</img> -->
+<img src = "![coding](https://github.com/geek-prateek/geek-prateek/assets/71647878/be6811fc-d249-4366-b8f0-c83bcc8b91e4)" width = 1000 alt = "gif" >
+</img>
 </p>
 
 I'm dedicated to hone my skills and expand my knowledge in the fascinating world of software development. My journey in the world of programming began when I was in the 1st year of my college. Since then, I've been exploring various technologies and sharpening up my skills for developing a real-world projects.
