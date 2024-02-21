@@ -2,7 +2,8 @@
 <h5 align="center"><i>Passionate coder | Lifelong learner | Problem solver<i></h5>
 
 <p align = center>
-<img src = "https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif" width = 1000 alt = "gif" >
+<img src = "![coding](https://github.com/geek-prateek/geek-prateek/assets/71647878/baaaac7c-5ae1-46b7-b9a5-8eb645ddc184)
+" width = 1000 alt = "gif" >
 </img>
 </p>
 
