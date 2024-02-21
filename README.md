@@ -5,7 +5,7 @@
   
   
 
-<img src = "![coding](https://github.com/geek-prateek/geek-prateek/assets/71647878/be6811fc-d249-4366-b8f0-c83bcc8b91e4)" width = 1000 alt = "gif" >
+<img src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 1000 alt = "gif" >
 </img>
 </p>
 
